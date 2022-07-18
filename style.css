@@ -18,15 +18,30 @@ body {
 
 }
 
-.logo a {
-    text-decoration: none;
-    margin-top: 38px;
-    color: #FFFFFF;
 
+#a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 43%;
+    padding-top: 34px;
     font-size: 16px;
 }
 
+#b {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 3%;
+    padding-top: 34px;
+    font-size: 16px;
+}
 
+#c {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 3%;
+    padding-top: 34px;
+    font-size: 16px;
+}
 
 .logo img {
     width: 45px;
@@ -36,7 +51,8 @@ body {
 }
 
 #pic {
-    padding-left: 50%;
+    padding-left: 1%;
+
 }
 
 
